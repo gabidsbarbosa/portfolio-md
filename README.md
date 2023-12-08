@@ -47,6 +47,59 @@ Já o líder de projeto é responsável por gerenciar a parte micro do projeto, 
 
 <br>
 
+<p><b>Minhas contribuições e lições aprendidas</b></p>
+<p align="justify">
+    
+Como membro da equipe de desenvolvimento e Scrum Master, contribuí decisivamente para o sucesso do projeto, implementando funcionalidades essenciais e facilitando a comunicação ágil entre os membros da equipe. Ao abordar o desafio de gerenciar projetos complexos para nosso cliente, aprendi a equilibrar as demandas macro e micro do projeto, destacando a importância da colaboração e da flexibilidade. Essa experiência solidificou minhas habilidades técnicas e de liderança, proporcionando valiosas lições sobre administração eficiente e adaptação no ambiente corporativo.
+</p>
+
+<details>
+  <summary><b>HARD SKILLS</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>React</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Bootstrap</td>
+      <td>★★★★☆</td>
+    </tr>
+  </table>
+</details>
+<details>
+<summary><b>SOFT SKILLS (PACER)</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★★★</td>
+    </tr>
+    <tr>
+      <td>Autonomia</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Colaboração</td>
+      <td>★★★★★</td>
+     </tr>
+    <tr>
+      <td>Entrega de Resultados</td>
+      <td>★★★☆☆</td>
+    </tr>
+  </table>
+</details>
+<br>
+
+
 <h2>🌱 API 2023.1 - Sistema de inspeção de entrada para controle de recebimento de grãos.</h2>
 
 <p>
@@ -75,9 +128,55 @@ Já o líder de projeto é responsável por gerenciar a parte micro do projeto, 
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<p><b>Minhas contribuições e lições aprendidas</b></p>
+<p align="justify">
+Como Scrum Master, desempenhei um papel crucial na resolução do desafio enfrentado pela empresa na gestão da entrada de grãos. Minha contribuição envolveu a implementação eficiente de um software que atribuiu papéis específicos - Recebedor, Analista, Aprovador e Administrador - para garantir o controle de qualidade e quantidade na recepção de grãos. A experiência ampliou minha compreensão sobre coordenação de equipe e sistemas de inspeção, proporcionando lições valiosas sobre a importância da colaboração estruturada e do gerenciamento de projetos especializados.
+</p>
+
+<details>
+    <summary><b>HARD SKILLS</b></summary>
+    <br>
+    <table align="center">
+      <tr>
+        <th width="300px">Tecnologia/Metodologia</th>
+        <th width="300px">Classificação</th>
+      </tr>
+      <tr>
+        <td>React</td>
+        <td>★★★☆☆</td>
+      </tr>
+    </table>
+  </details>
+  <details>
+  <summary><b>SOFT SKILLS (PACER)</b></summary>
+    <br>
+    <table align="center">
+      <tr>
+        <th width="300px">Habilidade</th>
+        <th width="300px">Classificação</th>
+      </tr>
+      <tr>
+        <td>Proatividade</td>
+        <td>★★★★☆</td>
+      </tr>
+      <tr>
+        <td>Autonomia</td>
+        <td>★★★★☆</td>
+      </tr>
+      <tr>
+        <td>Colaboração</td>
+        <td>★★★★☆</td>
+       </tr>
+      <tr>
+        <td>Entrega de Resultados</td>
+        <td>★★★☆☆</td>
+      </tr>
+    </table>
+  </details>
+
 <br>
 
-<h2>🌱 API 2022.2 - Sistema de inspeção de entrada para controle de recebimento de grãos.</h2>
+<h2>🌱 API 2022.2 - Internet Bank</h2>
 
 <p>
 <b>Cliente: </b> Interno, professor da Fatec.
@@ -104,6 +203,65 @@ Já o líder de projeto é responsável por gerenciar a parte micro do projeto, 
 ![git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+
+<p><b>Minhas contribuições e lições aprendidas</b></p>
+<p align="justify">
+    Como membro da equipe de desenvolvimento em meu primeiro projeto significativo em tecnologia, contribuí para a solução do desafio de digitalizar as transações bancárias. Desenvolvemos um software para um Banco Digital, proporcionando funcionalidades essenciais como depósito, saque e transferência. Minha participação envolveu a aprendizagem e aplicação de ferramentas essenciais para o desenvolvimento de software, como HTML, CSS e banco de dados, ampliando significativamente minha bagagem técnica nessa experiência inaugural. Essa vivência destacou a importância dos sistemas online na evolução digital do nosso dia a dia.
+</p>
+
+<details>
+    <summary><b>HARD SKILLS</b></summary>
+    <br>
+    <table align="center">
+    <tr>
+        <th width="300px">Tecnologia/Metodologia</th>
+        <th width="300px">Classificação</th>
+      <tr>
+        <td>HTML</td>
+        <td>★★★★★</td>
+      </tr>
+    <tr>
+        <td>CSS</td>
+        <td>★★★★☆</td>
+    </tr>
+    <tr>
+        <td>MY SQL</td>
+        <td>★★★★☆</td>
+    </tr>
+    <tr>
+        <td>Figma</td>
+        <td>★★★★☆</td>
+    </tr>
+    </table>
+  </details>
+  <details>
+  <summary><b>SOFT SKILLS (PACER)</b></summary>
+    <br>
+    <table align="center">
+      <tr>
+        <th width="300px">Habilidade</th>
+        <th width="300px">Classificação</th>
+      </tr>
+      <tr>
+        <td>Proatividade</td>
+        <td>★★★★☆</td>
+      </tr>
+      <tr>
+        <td>Autonomia</td>
+        <td>★★☆☆☆</td>
+      </tr>
+      <tr>
+        <td>Colaboração</td>
+        <td>★★★★☆</td>
+       </tr>
+      <tr>
+        <td>Entrega de Resultados</td>
+        <td>★★★★☆</td>
+      </tr>
+    </table>
+  </details>
 
 <br>
 
